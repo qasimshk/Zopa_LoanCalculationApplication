@@ -1,4 +1,4 @@
-# Zopa_LoanCalculationApplication
+
 
 # Account Formula
 - Monthly Payments = (Principal of Loan + Finance Charge) / Time
@@ -16,7 +16,7 @@
 - Moq
 - Microsoft Unity
 
-# Zopa Technical Test
+# Zopa Loan Calculator
 
 There is a need for a rate calculation system allowing prospective borrowers to
 obtain a quote from our pool of lenders for 36 month loans. This system will 
