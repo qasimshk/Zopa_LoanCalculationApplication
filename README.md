@@ -1,21 +1,4 @@
 
-
-# Account Formula
-- Monthly Payments = (Principal of Loan + Finance Charge) / Time
-- Finance Charge = Principal of Loan X Annual Percentage Rate X Time
-- Interest = P.R.T
-
-# Tools
-- Visual Studio 2017
-- Re sharper
-- Log4Net Viewer
-
-# Libraries & Framework
-- C# 7.1
-- X unit
-- Moq
-- Microsoft Unity
-
 # Zopa Loan Calculator
 
 There is a need for a rate calculation system allowing prospective borrowers to
@@ -38,6 +21,22 @@ Borrowers should be able to request a loan of any £100 increment between £1000
 and £15000 inclusive. If the market does not have sufficient offers from
 lenders to satisfy the loan then the system should inform the borrower that it
 is not possible to provide a quote at that time.
+
+# Account Formula
+- Monthly Payments = (Principal of Loan + Finance Charge) / Time
+- Finance Charge = Principal of Loan X Annual Percentage Rate X Time
+- Interest = P.R.T
+
+# Tools
+- Visual Studio 2017
+- Re sharper
+- Log4Net Viewer
+
+# Libraries & Framework
+- C# 7.1
+- X unit
+- Moq
+- Microsoft Unity
 
 The application should take arguments in the form:
 
