@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zopa", "Zopa\Zopa.csproj", "{67F74810-2EC6-4EAC-9C2C-1ACB86561602}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zopa.Business", "Zopa.Business\Zopa.Business.csproj", "{AD8A9FBE-A544-4B79-BAFB-D4A4E2AF3A1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Zopa.Test", "Zopa.Test\Zopa.Test.csproj", "{3F686442-3F89-49A5-A0C9-8AE3DED227ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67F74810-2EC6-4EAC-9C2C-1ACB86561602}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67F74810-2EC6-4EAC-9C2C-1ACB86561602}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67F74810-2EC6-4EAC-9C2C-1ACB86561602}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67F74810-2EC6-4EAC-9C2C-1ACB86561602}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD8A9FBE-A544-4B79-BAFB-D4A4E2AF3A1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD8A9FBE-A544-4B79-BAFB-D4A4E2AF3A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD8A9FBE-A544-4B79-BAFB-D4A4E2AF3A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD8A9FBE-A544-4B79-BAFB-D4A4E2AF3A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F686442-3F89-49A5-A0C9-8AE3DED227ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F686442-3F89-49A5-A0C9-8AE3DED227ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F686442-3F89-49A5-A0C9-8AE3DED227ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F686442-3F89-49A5-A0C9-8AE3DED227ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6163741E-9CF1-4BAF-B807-715F5FE5C8B1}
+	EndGlobalSection
+EndGlobal
